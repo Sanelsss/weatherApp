@@ -114,7 +114,7 @@ function App() {
       <div className="col-xs-10 col-lg-6  title-container">
         <Container className={classes.oo} >
           {alert ? (<Alert onClose={() => {setAlert(false) }}>
-            You have already selected this city!</Alert>)
+            You have alrd selected this city!</Alert>)
             : (" ")}
           <Grid className={classes.grid}
             container spacing={0}
