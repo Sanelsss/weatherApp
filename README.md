@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+This is the Application that uses API for displaying Weather information to an end user. For this app I used core principles of object-oriented programming. I have used JavaScript and React concepts with CSS and HTML. For better functioning I used multiple React Hooks,reactIcons and classes. You can find this application deployed on Netlify: "https://ssaadd.netlify.app//" It's working for both mobile and web.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
